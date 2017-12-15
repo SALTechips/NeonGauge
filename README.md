@@ -1,5 +1,5 @@
 # NeonGauge Library
-![alt text](https://github.com/EvanPl/NeonGauge/blob/master/extras/Neon%20Tubes.PNG)
+![alt text](https://github.com/SALTechips/NeonGauge/blob/master/extras/Neon%20Tubes.PNG)
 
 Arduino Library for controlling the ***NeonGauge*** product.
 ## Functions
@@ -30,7 +30,7 @@ Further information on how to install an arduino library can be found [here](htt
 ### Countdown Timer.
 This is a program which uses all 3 neon tubes as a countdown timer. The neon tubes are fully on at 60 hours, 60 minutes and 60 seconds. Note that 60 hours/minutes/seconds are represented by a 240 PWM signal and the PWM signal is decreasing by steps of 4 each time. Connect the Rx pin of your NeonGauge product to pin 1 of the Arduino and you are ready to go.
 ### Volume unit (VU) meter.
-![alt text](https://github.com/EvanPl/NeonGauge/blob/master/extras/VU_Meter.gif)
+![alt text](https://github.com/SALTechips/NeonGauge/blob/master/extras/VU_Meter.gif)
 
 This is a program in which the three neon tubes are used as a VU meter. Note that, for this application to work, the following are required:
 * Winamp, available from [here](http://www.winamp.com/). The application was tested with Winamp v5.666.
