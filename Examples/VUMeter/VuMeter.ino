@@ -1,8 +1,8 @@
 /*VU meter application (Note that the Rx pin of the Neongauge product should be connected at 
   pin 11 (Tx pin) of the Arduino, for this example. By using the SoftwareSerial library, you can also use any of the allowed Rx and Tx pins on the Arduino). Required to have:
   --Winamp.
-  --lcd_analyzer.ini (inside C:\) (GIVE URL)
-  --gen_crownsoft_lcd.dll (inside C:\... Winamp\Plugins) (GIVE URL)
+  --lcd_analyzer.ini (inside C:\) (https://github.com/SALTechips/NeonGauge/tree/master/extras)
+  --gen_crownsoft_lcd.dll (inside C:\... Winamp\Plugins) (https://github.com/SALTechips/NeonGauge/tree/master/extras)
   --SoftwareSerial library.
   Please note that you must first upload the sketch on the Arduino (with Winamp closed) and then open Winamp.
 */
