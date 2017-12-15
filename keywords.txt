@@ -1,0 +1,11 @@
+# Syntax Coloring Map For NeonGauge
+#class
+NeonGauge	KEYWORD1
+
+#functions
+
+begin	KEYWORD2
+sputtering	KEYWORD2
+setPWM	KEYWORD2
+reset	KEYWORD2
+BlinkNeon	KEYWORD2
