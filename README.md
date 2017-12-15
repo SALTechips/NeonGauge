@@ -44,6 +44,6 @@ Many thanks to **Barreto Raul** for providing the lcd_analyzer.ini and gen_crown
 * **Platon Evangelos**
 * **Tsekenis Alex**
 ## Licence
-The NeonGauge library is licensed under the GNU General Public License (GPL) version 3, as published by the Free Software Foundation. Refer to the [***LICENSE***](https://github.com/SALTechips/NeonGauge/blob/master/LICENSE).
+The NeonGauge library is licensed under the GNU General Public License (GPL) version 3, as published by the Free Software Foundation. Refer to the [***License***](https://github.com/SALTechips/NeonGauge/blob/master/LICENSE) for further details.
 ## Support
 If you have any questions regarding the ***NeonGauge*** library or the product, please contact SALTechips [***here***](https://www.saltechips.com/contact/).
